@@ -30,7 +30,7 @@ SenOR Legal Advisor is an AI-powered chatbot designed to provide immediate and r
 Clone the project
 
 ```bash
-  git clone https://github.com/anish2105/Senor.git
+  https://github.com/poojaharihar03/Legal-Advisor-SENOR.git
 ```
 
 Create virtual environment
