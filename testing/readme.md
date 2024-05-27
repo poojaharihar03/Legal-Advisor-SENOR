@@ -18,7 +18,7 @@ This folder consists of unit tests for two primary functions of the SenOR Legal 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/SenORLegalAdvisor.git
+    https://github.com/poojaharihar03/Legal-Advisor-SENOR.git
     cd SenORLegalAdvisor
     ```
 
